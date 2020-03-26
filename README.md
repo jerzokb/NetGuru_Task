@@ -11,5 +11,7 @@ HOW TO RUN AUTOMATION TEST PROJECT
 5.	Open PyCharm application
 6.	Open NetGuruTest project
 7.	Run CreateAccountTests.py and SignInTests.py
+
 Answer for the first task is included in the file Task1Answer.pdf.
+
 Answer for the third question is included in the file Task3Answer.pdf.
